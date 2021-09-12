@@ -1,0 +1,8 @@
+# 应用名称
+spring:
+  application:
+    name: ting-websocket
+server:
+  port: 8088
+
+
